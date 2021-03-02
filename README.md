@@ -2,8 +2,8 @@
 3D Graphics Framework, C++
 
 ## Lightings
-![](images/Lighting)
-![](images/SpotLight)
+![](images/Lighting.png)
+![](images/SpotLight.png)
 
 ## Reflection / Refraction w/ Skybox
-![](images/Reflection)
+![](images/Reflection.png)
