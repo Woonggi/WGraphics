@@ -1,9 +1,9 @@
 # WGraphics
-3D Graphics Framework, C++
+3D Graphics Framework, C++, OpenGL
 
-## Lightings
+## Lightings & Texturing
 ![](images/Lighting.png)
 ![](images/SpotLight.png)
 
-## Reflection / Refraction w/ Skybox
+## Reflection & Refraction w/ Skybox
 ![](images/Reflection.png)
